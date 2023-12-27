@@ -1,0 +1,11 @@
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Domain\bin\Debug\net8.0\CarBook.Domain.deps.json
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Domain\bin\Debug\net8.0\CarBook.Domain.dll
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Domain\bin\Debug\net8.0\CarBook.Domain.pdb
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\CarBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\CarBook.Domain.AssemblyInfoInputs.cache
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\CarBook.Domain.AssemblyInfo.cs
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\CarBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\CarBook.Domain.dll
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\refint\CarBook.Domain.dll
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\CarBook.Domain.pdb
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net8.0\ref\CarBook.Domain.dll

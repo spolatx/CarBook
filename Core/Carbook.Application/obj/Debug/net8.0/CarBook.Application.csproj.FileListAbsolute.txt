@@ -1,0 +1,15 @@
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Application.deps.json
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Application.dll
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Application.pdb
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Domain.dll
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Domain.pdb
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.csproj.AssemblyReference.cache
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.AssemblyInfoInputs.cache
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.AssemblyInfo.cs
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.csproj.CopyComplete
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.dll
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Application\obj\Debug\net8.0\refint\CarBook.Application.dll
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.pdb
+C:\Users\Samet Polat\Documents\GitHub\CarBook\Core\CarBook.Application\obj\Debug\net8.0\ref\CarBook.Application.dll
